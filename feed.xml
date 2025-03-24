@@ -4,7 +4,6 @@
         <link>http://localhost:8800/broken.ml</link>
         <description>RSS XML</description>
         <item>
-            <title>Test Item</title>
             <description>RSS XML</description>
             <link>http://example.com</link>
             <guid>123</guid>
