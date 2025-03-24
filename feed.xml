@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
     <channel>
-        <title>параша</title>
         <link>http://localhost:8800/broken.ml</link>
         <description>RSS XML</description>
         <item>
