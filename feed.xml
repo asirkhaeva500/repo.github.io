@@ -8,7 +8,6 @@
             <title>Test Item</title>
             <link>http://example.com</link>
             <guid>1234566</guid>
-            <pubDate>Thu, 20 Mar 2025 12:27:25 +0000</pubDate>
             <category domain="tradingview:symbol">FX:EURUSD</category>
         </item>
     </channel>
